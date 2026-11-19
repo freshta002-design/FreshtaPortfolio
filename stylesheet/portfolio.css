@@ -433,3 +433,112 @@ button:hover, .form-container .btn:hover {
         width: 40vw;
     }
 }
+
+
+/***** PROJECTS SECTION *****/
+
+.projects-section {
+    background-color: #f7f2fa;
+    padding: 60px 8%;
+    text-align: center;
+}
+
+.projects-section h1 {
+    color: #2b003d;
+    font-size: 36px;
+    margin-bottom: 20px;
+}
+
+.projects-container {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+    gap: 25px;
+    margin-top: 40px;
+}
+
+.project-card {
+    background-color: white;
+    border-radius: 12px;
+    padding: 25px;
+    text-align: left;
+    border-top: 5px solid #6a0dad;
+    box-shadow: 0 5px 18px rgba(0, 0, 0, 0.1);
+    transition: transform 0.3s ease;
+}
+
+.project-card:hover {
+    transform: translateY(-5px);
+}
+
+.project-card h2 {
+    font-size: 23px;
+    color: #2b003d;
+}
+
+.project-card h3 {
+    font-size: 18px;
+    color: #6a0dad;
+}
+
+.project-card p {
+    font-size: 17px;
+    line-height: 1.6;
+    padding: 0;
+    letter-spacing: normal;
+}
+
+/***** TECHNICAL SKILLS *****/
+
+.skills-section {
+    margin-top: 55px;
+}
+
+.skills-section h2 {
+    color: #2b003d;
+    font-size: 28px;
+}
+
+.skills-container {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 12px;
+    margin-top: 25px;
+}
+
+.skills-container span {
+    background-color: #2b003d;
+    color: white;
+    padding: 12px 18px;
+    border-radius: 8px;
+    font-size: 16px;
+    letter-spacing: normal;
+}
+
+/***** MOBILE RESPONSIVENESS *****/
+
+@media screen and (max-width: 768px) {
+    .projects-section {
+        padding: 40px 5%;
+    }
+
+    .projects-container {
+        grid-template-columns: 1fr;
+    }
+
+    .project-card {
+        padding: 20px;
+    }
+
+    .skills-container span {
+        font-size: 14px;
+    }
+}
+
+@media screen and (max-width: 1080px) {
+    .Navbar a {
+        width: auto;
+        font-size: 16px;
+        padding: 12px;
+    }
+}
