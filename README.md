@@ -1,72 +1,156 @@
-# Personal Portfolio & Programming Projects
 
-This repository contains my personal portfolio website and
-projects completed throughout my software development coursework.
+# Personal Portfolio & Software Development Projects
 
-I have developed experience in front-end web development,
-C#, ASP.NET MVC, Entity Framework, and database programming.
+Welcome to my GitHub portfolio!
 
-My portfolio showcases my technical skills, projects,
-and continued growth as a software developer.
+This repository showcases projects I have completed while
+learning web development, C#, ASP.NET MVC, Entity Framework,
+and database programming.
+
+Throughout my coursework, I have developed skills in
+front-end development, object-oriented programming,
+database management, and building .NET applications.
 
 ## Projects
 
-### Portfolio Website
-A personal portfolio website showcasing my background, skills, GitHub profile, and contact information. This project uses HTML, CSS, and JavaScript and includes responsive design, an interactive slideshow, a popup contact form, and a background video.
+### 1. Personal Portfolio Website
+A personal portfolio website showcasing my background,
+technical skills, GitHub profile, and completed projects.
 
-### One Page Website
-A single-page website demonstrating the use of HTML structure, internal navigation, images, forms, and CSS styling.
+The website includes:
+- Responsive web design
+- Interactive image slideshow
+- Video background
+- Popup contact form
+- Project showcase
+- Technical skills section
 
-### Academy Cinemas
-A movie theater website built using Bootstrap. The site includes a responsive navigation bar, movie listings, showtimes, cards, forms, and various Bootstrap components.
+**Technologies:** HTML5, CSS3, JavaScript
 
-### Pet Store
-A multi-page website created using HTML and CSS that showcases a fictional pet store, demonstrating page navigation, images, forms, and styling techniques.
+### 2. Car Insurance Quote Application
+An ASP.NET MVC application designed to simulate a car
+insurance website.
 
-### Simple Recipes
-A recipe website featuring multiple recipes with images, ingredients, and preparation instructions. This project focuses on semantic HTML structure and clean CSS styling.
+The application allows users to enter insurance-related
+information and calculates insurance quotes based on
+business rules.
 
-### Creating CSS Effects
-A project demonstrating different CSS effects including hover animations, transitions, image effects, and styling techniques used to improve the appearance and interactivity of web pages.
+It also includes an administrative page where submitted
+insurance quotes can be reviewed.
 
-## Recent C# Projects
+**Technologies:** C#, ASP.NET MVC, .NET, HTML, CSS
 
-### Car Insurance Quote Application
+**Skills Gained:**
+- Model-View-Controller (MVC) architecture
+- Object-oriented programming
+- Form handling and validation
+- Business logic implementation
+- Web application development
 
-An ASP.NET MVC application that simulates a car insurance
-website. Users can enter insurance information and receive
-a calculated quote based on business logic.
+### 3. Entity Framework Application
+A C# application developed to practise database
+integration using Entity Framework.
 
-The application also includes an administrative page
-for reviewing submitted quotes.
+The project demonstrates working with entity models,
+connecting applications to relational databases,
+and performing database operations.
 
-**Technologies:** C#, ASP.NET MVC, .NET
+**Technologies:** C#, Entity Framework, .NET, SQL
 
-### Entity Framework Application
+**Skills Gained:**
+- Database integration
+- Entity models
+- Data access and management
+- Relational databases
+- Working with .NET applications
 
-A C# application that demonstrates database integration
-using Entity Framework, including working with entity
-models and managing database records.
+### 4. One Page Website
+A single-page website demonstrating HTML structure,
+internal navigation, images, forms, and CSS styling.
 
-**Technologies:** C#, Entity Framework, SQL, .NET
+**Technologies:** HTML5, CSS3
 
-## Technologies Used
+### 5. Academy Cinemas
+A movie theater website built using Bootstrap.
 
+The website includes responsive navigation, movie
+listings, showtimes, cards, forms, and Bootstrap components.
+
+**Technologies:** HTML5, CSS3, Bootstrap 4
+
+### 6. Pet Store
+A multi-page website showcasing a fictional pet store.
+
+This project demonstrates page navigation, images,
+forms, and website styling techniques.
+
+**Technologies:** HTML5, CSS3
+
+### 7. Simple Recipes
+A recipe website featuring multiple recipes with images,
+ingredients, and preparation instructions.
+
+The project focuses on semantic HTML structure and
+clean CSS styling.
+
+**Technologies:** HTML5, CSS3
+
+### 8. Creating CSS Effects
+A project demonstrating different CSS styling techniques,
+including hover animations, transitions, image effects,
+and interactive webpage elements.
+
+**Technologies:** HTML5, CSS3
+
+## Technical Skills
+
+### Programming Languages
+- C#
+- Python
+- JavaScript
 - HTML5
 - CSS3
-- JavaScript
-- Bootstrap 4
-- C#
+- SQL
+
+### Frameworks and Technologies
 - ASP.NET MVC
 - .NET
 - Entity Framework
-- SQL
+- Bootstrap 4
+
+### Development Tools
 - Visual Studio
-- Git and GitHub
+- Visual Studio Code
+- Git
+- GitHub
 
-## Live Website
+### Concepts and Skills
+- Object-Oriented Programming (OOP)
+- Model-View-Controller (MVC)
+- Database Integration
+- Relational Database Management
+- Form Handling and Validation
+- Responsive Web Design
+- Debugging and Testing
 
-The portfolio website is published using GitHub Pages.
+## What I Learned
+
+Through these projects, I have gained practical experience
+developing both front-end websites and C# applications.
+
+Working with ASP.NET MVC helped me understand how models,
+views, and controllers work together to build web applications.
+
+Using Entity Framework helped me learn how applications
+interact with relational databases and manage data.
+
+These experiences have strengthened my understanding of
+software development and encouraged me to continue
+improving my programming skills.
+
+## Live Portfolio Website
+
+My personal portfolio website is published using GitHub Pages.
 
 ## Author
 
