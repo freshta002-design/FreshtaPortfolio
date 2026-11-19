@@ -1,6 +1,13 @@
-# HTML, CSS & JavaScript Projects
+# Personal Portfolio & Programming Projects
 
-This repository contains the projects I completed while learning HTML, CSS, Bootstrap, and JavaScript. Throughout this course, I built several websites and web applications that helped me develop my front-end web development skills.
+This repository contains my personal portfolio website and
+projects completed throughout my software development coursework.
+
+I have developed experience in front-end web development,
+C#, ASP.NET MVC, Entity Framework, and database programming.
+
+My portfolio showcases my technical skills, projects,
+and continued growth as a software developer.
 
 ## Projects
 
@@ -22,12 +29,40 @@ A recipe website featuring multiple recipes with images, ingredients, and prepar
 ### Creating CSS Effects
 A project demonstrating different CSS effects including hover animations, transitions, image effects, and styling techniques used to improve the appearance and interactivity of web pages.
 
+## Recent C# Projects
+
+### Car Insurance Quote Application
+
+An ASP.NET MVC application that simulates a car insurance
+website. Users can enter insurance information and receive
+a calculated quote based on business logic.
+
+The application also includes an administrative page
+for reviewing submitted quotes.
+
+**Technologies:** C#, ASP.NET MVC, .NET
+
+### Entity Framework Application
+
+A C# application that demonstrates database integration
+using Entity Framework, including working with entity
+models and managing database records.
+
+**Technologies:** C#, Entity Framework, SQL, .NET
+
 ## Technologies Used
 
 - HTML5
 - CSS3
-- Bootstrap 4
 - JavaScript
+- Bootstrap 4
+- C#
+- ASP.NET MVC
+- .NET
+- Entity Framework
+- SQL
+- Visual Studio
+- Git and GitHub
 
 ## Live Website
 
